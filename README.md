@@ -1,0 +1,1 @@
+This is my second completed assignment from The Odin Project. I was instructed to build a simple game of rock, paper, scissors in a simple HTML file. It was good to practice conditionals, loops, and constructing functions. It was good practice for me to develop a plan, divide the work, and tackle the project.
